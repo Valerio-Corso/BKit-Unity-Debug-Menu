@@ -1,5 +1,5 @@
 # bkit-unity-debug-menu
-A lightweight simple unity debug menu
+A lightweight simple unity debug menu, it uses an assembly definition to resolve your debug classes and ivoke actions
 
 ## Requirements
 - TextMeshPro 3.0.0
@@ -13,6 +13,7 @@ A lightweight simple unity debug menu
 ![image](https://github.com/user-attachments/assets/7a358760-701b-4174-b065-e46b2a552d9b)
 
 2. Make sure to define an assembly, if you don't have one create it for the folder holding your debug scripts.
+3. Press F1 while in-game
 
 Start using it like this:
 
