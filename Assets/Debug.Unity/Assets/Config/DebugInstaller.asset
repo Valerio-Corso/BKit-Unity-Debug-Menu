@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ca8def94b224f3388e3109475fbaaf3, type: 3}
+  m_Name: DebugInstaller
+  m_EditorClassIdentifier: 
+  _canvasPrefab: {fileID: 3907009620445377551, guid: 8a1ea3f7437b4712a71c3a1331ab5f34, type: 3}
+  _cheatButtonPrefab: {fileID: 596673869496692941, guid: cd14c493d0fb4e6f8195b9484fcd4121, type: 3}
+  _cheatHeaderPrefab: {fileID: 8799767160194876625, guid: 2aa0b2c4f5854935a35a745a120b3a23, type: 3}
+  _cheatPanelContainerPrefab: {fileID: 8243411476631589032, guid: 4bea2ede67e34666a57f19c6872ec8b7, type: 3}
+  _tabPrefab: {fileID: 5993768928257950043, guid: 72e855a6119f4cc89a8316f5322a0435, type: 3}
