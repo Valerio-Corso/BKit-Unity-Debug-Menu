@@ -18,9 +18,12 @@ A lightweight simple unity debug menu, it uses an assembly definition to resolve
 Start using it like this:
 
 ```
+    /// Define your tab, seen at the top of the screen
     [DebugTab("Test Debug One")]
     public class TestDebugOne
     {
+        /// Define your actions, it can take an optional string as seen here to define an header object that will be spawned
+        /// Debug actions are grouped by Tab->Header, so you can specificy multiple equal string and they will be merged together
         [DebugAction("Test Action")]
         public void TestAction()
         {
